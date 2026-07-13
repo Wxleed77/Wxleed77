@@ -66,7 +66,7 @@ waleed = {
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Supabase](https://img.shields.io/badge/Supabase-3ECF8E?style=flat-square&logo=supabase&logoColor=white)
 
-> **Note:** Remove any badge above for tools you haven't genuinely used yet — authenticity matters more than a full grid.
+
 
 ---
 
@@ -108,7 +108,7 @@ waleed = {
 **Tech:** `React.js` `Tailwind CSS` `TypeScript` `[Backend/DB — e.g., Supabase/Next.js]`
 **Highlights:** Deployed · [Add: X users / X transactions tracked if applicable]
 
-[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel)](https://YOUR_DEPLOYMENT_LINK)
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel)](https://fintrack-ai-xi.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Wxleed77/fintrack_ai)
 
 ---
