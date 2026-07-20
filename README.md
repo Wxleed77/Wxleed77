@@ -77,6 +77,7 @@ waleed = {
 
 **Tech:** `[Python]` `[FastAPI]` `[LLM's]` `[Supabase]` `[React+vite]`
 **Highlights:** [Persoanlized Path for each users based on Availables Hours per week"]
+
 [![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel)](https://peronalized-learning-system.vercel.app)
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Wxleed77/Learning_Path_Generator_System)
 
