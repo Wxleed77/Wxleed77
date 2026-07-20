@@ -72,10 +72,19 @@ waleed = {
 
 ## Featured Projects
 
+### Personalized Learning System
+> A personalized Learning System that tells users their best path of learning a specciic topic with described hours per week.It also tracks users Activity via heatmap and takes weekly quizes.
+**Tech:** `Python` `FastAPI` `LLM's` `Supabase` `React+vite`
+**Highlights:** [Persoanlized Path for each users based on Availables Hours per week"]
+[![Live Demo](https://img.shields.io/badge/Live_Demo-22C55E?style=flat-square&logo=vercel)](https://peronalized-learning-system.vercel.app)
+[![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Wxleed77/Learning_Path_Generator_System)
+
+
+
 ### 🤖 RAG University Assistant Chatbot
 > A retrieval-augmented generation chatbot that answers university-related queries (admissions, courses, policies) by combining a vector database with an LLM for context-aware, grounded responses.
 
-**Tech:** `Python` `LangChain` `[Vector DB: ChromaDB/FAISS/Pinecone]` `[LLM API used]` `[Frontend if any]`
+**Tech:** `Python` `LangChain` `[Vector DB: ChromaDB/FAISS/Pinecone]` `[LLM API used]` `[React]`
 **Highlights:** [Add 1 metric — e.g., "Indexed X documents · Avg response latency: Xs"]
 
 [![Repo](https://img.shields.io/badge/View_Repo-181717?style=flat-square&logo=github)](https://github.com/Wxleed77/YOUR_RAG_REPO_NAME)
